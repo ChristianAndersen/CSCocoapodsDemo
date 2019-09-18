@@ -4,13 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>CSFoundation.podspec</key>
+		<data>
+		3EStjKyO6qxE6R9tIUc3/TR7PEU=
+		</data>
 		<key>Headers/CSFoundation.h</key>
 		<data>
 		RUGYiIXCMyISFXUKKybhaAs7tnw=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		YDm+jkoHEK5j3GeTg8gnOJzcaoA=
+		wjc8kOrfeh1z2RyTnvdf6AeD+0k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -19,6 +23,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>CSFoundation.podspec</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/TIYrC9fGaTgdVEthzkgv1WskzfXbG0fifKbRDbhxDg=
+			</data>
+		</dict>
 		<key>Headers/CSFoundation.h</key>
 		<dict>
 			<key>hash2</key>

@@ -1,0 +1,16 @@
+PODS:
+  - CSFoundation (0.0.1)
+
+DEPENDENCIES:
+  - CSFoundation (~> 0.0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CSFoundation
+
+SPEC CHECKSUMS:
+  CSFoundation: f18d1a18cb2f1bb0f47b38654d79e00903f5f42d
+
+PODFILE CHECKSUM: 347ade067f3300afa87bcdab63d4aeb5196d84ed
+
+COCOAPODS: 1.7.5
