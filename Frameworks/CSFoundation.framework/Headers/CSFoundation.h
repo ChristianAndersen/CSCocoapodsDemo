@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "CSFoundationMsg.h"
 
 //! Project version number for CSFoundation.
 FOUNDATION_EXPORT double CSFoundationVersionNumber;
